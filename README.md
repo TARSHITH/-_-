@@ -3,4 +3,4 @@ task1:Digital poster and flier
 task2:Logo for a business
 task3:Business cards for a business person
 task4:Infographics on a certain topic
-these are the tasks which I have performed
+these are the tasks which I have performed.
